@@ -43,6 +43,29 @@ Wager rules and scoring details are available in:
 
 docs/RULES.md
 
+## Disclaimer & Copyright
+
+This project is an unofficial, fan-made application.
+
+Formula 1, F1, FIA, Formula One World Championship, and related trademarks are the
+property of their respective owners. This project is not affiliated with, endorsed by,
+or connected to Formula 1, the FIA, or any associated organizations.
+
+All team names, driver names, race names, and results are used strictly for
+informational and recreational purposes.
+
+No commercial use is intended.
+
+## License
+
+This project is released under the MIT License.
+
+You are free to use, modify, and distribute this software, provided that the original
+copyright notice and this permission notice are included in all copies or substantial
+portions of the software.
+
+See the LICENSE file for full license text.
+
 ## Final Note
 
 This platform exists for fun, friendly competition, and long-term bragging rights.
