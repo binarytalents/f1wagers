@@ -37,11 +37,17 @@ Web UI: http://localhost:10000 Admin: http://localhost:10000/admin
 - wagers — Race wagers and season wagers
 - webui — Frontend views and pages
 
-## Rules
+## Rules & Scoring
 
-Wager rules and scoring details are available in:
+Before playing, make sure to read the full rules and scoring system:
 
-docs/RULES.md
+[F1 Pick Champions — Rules & Scoring](docs/RULES.md)
+
+This document explains:
+- How wagers work
+- Podium and Joker rules
+- Chaos points and Chaos Championship
+- Scoring system and championships
 
 ## Disclaimer & Copyright
 
