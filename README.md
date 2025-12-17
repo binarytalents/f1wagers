@@ -23,15 +23,13 @@ and dynamic championship tables based on current standings — “What if the se
 
 
 ## Quick Start
+~~~  bash
 cp .env.example .env
-docker compose up --build -d
+cker compose up --build -d
 docker compose exec web python manage.py migrate
-docker compose exec web python manage.py createsuperuser
-
-Open in your browser:
-
-- Web UI: http://localhost:10000
-- Admin: http://localhost:10000/admin
+docker compose exec webdocker compose exec web python manage.py createsuperuser
+~~~
+Web UI: http://localhost:10000 Admin: http://localhost:10000/admin
 
 ## Project Structure
 
